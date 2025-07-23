@@ -1,5 +1,5 @@
 # https://docs.mistral.ai/capabilities/OCR/basic_ocr/
-
+#https://console.groq.com/docs/vision
 
 
 
